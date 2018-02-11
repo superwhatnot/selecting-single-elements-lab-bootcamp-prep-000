@@ -1,4 +1,4 @@
-lea## Selecting Elements Lab
+## Selecting Elements Lab
 
 ### Introduction
 
